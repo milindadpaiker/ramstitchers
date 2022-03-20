@@ -1,4 +1,4 @@
-baseURL = "https://demo.gethugothemes.com/timer/site/"
+baseURL = "https://demo.gethugothemes.com"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
@@ -28,15 +28,11 @@ name = "Gallery"
 url = "gallery/"
 weight = 4
 
-[[menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 5
 
 # Site Params
 [params]
